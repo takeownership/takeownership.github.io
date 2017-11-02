@@ -1,20 +1,28 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1aae7697a4c1e2f2a72f.js",
-      "component---src-pages-index-js-1aae7697a4c1e2f2a72f.js.map"
+      "component---src-pages-index-js-51369a46d7345ab465d3.js",
+      "component---src-pages-index-js-51369a46d7345ab465d3.js.map"
+    ],
+    "component---src-pages-checkout-js": [
+      "component---src-pages-checkout-js-50c7095716a727fba25c.js",
+      "component---src-pages-checkout-js-50c7095716a727fba25c.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-learnmore-js": [
+      "component---src-pages-learnmore-js-2d10d7bd99ac111ad17a.js",
+      "component---src-pages-learnmore-js-2d10d7bd99ac111ad17a.js.map"
+    ],
+    "path---video": [
+      "path---video-a0e39f21c11f6a62c5ab.js",
+      "path---video-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-74da845dcd8a728413c3.js",
       "component---src-layouts-index-js-74da845dcd8a728413c3.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -24,23 +32,31 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
+    "component---src-pages-video-js": [
+      "component---src-pages-video-js-1a67e4ac78f1d43e6fb4.js",
+      "component---src-pages-video-js-1a67e4ac78f1d43e6fb4.js.map"
+    ],
     "commons": [
-      "commons-b5df97a139f8854220d4.js",
-      "commons-b5df97a139f8854220d4.js.map"
+      "commons-3ed0d9158bb35947f194.js",
+      "commons-3ed0d9158bb35947f194.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-e1319a78b2eb7705dae5.js",
-      "component---src-pages-page-2-js-e1319a78b2eb7705dae5.js.map"
+    "path---learnmore": [
+      "path---learnmore-a0e39f21c11f6a62c5ab.js",
+      "path---learnmore-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-264bbd7b7ebeaa90d98e.js",
+      "app-df96adfa0e1354aaf5d2.js",
       "build-js-styles.css",
-      "app-264bbd7b7ebeaa90d98e.js.map",
+      "app-df96adfa0e1354aaf5d2.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---checkout": [
+      "path---checkout-a0e39f21c11f6a62c5ab.js",
+      "path---checkout-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
